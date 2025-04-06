@@ -1,49 +1,71 @@
-# Hi there, I'm *Adham Assy* 👋
+# 👋 Hi there, I'm **Adham Assy**
 
 <div align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?color=%23d61707&size=32&center=true&vCenter=true&width=600&height=50&lines=Hello+Everyone;Welcome+To+My+Portfolio;+AI+Software+Engineer;" alt="Headline" />
+   <img src="https://readme-typing-svg.herokuapp.com?color=%23d61707&size=32&center=true&vCenter=true&width=700&height=60&lines=Hello+Everyone!;Welcome+To+My+Portfolio;AI+Software+Engineer+%F0%9F%A4%96;MLOps+%7C+Deep+Learning+%7C+NLP" alt="Typing SVG" />
 </div>
 
 <div align="center">
   <img src="https://github.com/adham3assy/assets/animation-header.gif" alt="Header Animation" width="800"/>
 </div>
 
-![Follow me](https://img.shields.io/badge/Follow%20me-brightpink?style=social&logo=github)
+<p align="center">
+  <a href="https://github.com/adham3assy">
+    <img src="https://img.shields.io/badge/Follow%20me-brightpink?style=social&logo=github" alt="GitHub Follow" />
+  </a>
+</p>
 
 ---
 
-💻 **AI/ML Engineer** | 🛠 **Software Developer** | ⚙️ **MLOps Enthusiast**
+### 💼 About Me
 
-I specialize in building scalable, production-grade machine learning systems end-to-end. From robust data pipelines and feature engineering to deep learning model development and deployment, I bring a full-stack ML mindset to real-world problems.
+🎓 **AI/ML Engineer** | 🛠️ **Software Developer** | ⚙️ **MLOps Enthusiast**
 
----
-
-### 🚀 Tech Stack & Tools
-
-- 🧠 **Machine Learning:** `PyTorch` | `TensorFlow` | `Scikit-learn` | `Transformers`
-- ⚙️ **MLOps & APIs:** `Docker` | `FastAPI`
-- 🗃 **Data Engineering:** `Pandas` | `Spark` | `SQL` | `NoSQL`
-- 💬 **NLP:** `spaCy` | `Gensim`
-- 🧰 **Dev & Tools:** `Python` | `Git` | `Linux` | `VSCode`
+I specialize in building **production-ready ML pipelines**, from data wrangling and feature engineering to model deployment and monitoring. My passion lies in turning cutting-edge research into real-world impact.
 
 ---
 
-### 📈 Current Focus
+### 🧠 Tech Toolbox
 
-- Building production-ready ML workflows  
-- Bridging ML research to deployment  
-- Optimizing real-time inference performance
-
----
-
-📫 **Let’s connect**  
-Explore my work or reach out via [LinkedIn](https://linkedin.com/in/adham-assy) or [Email](mailto:adhamabdelsalam@outlook.com)
+- **Machine Learning & AI**: PyTorch • TensorFlow • Scikit-learn  
+- **MLOps & APIs**: Docker • FastAPI  
+- **Data**: Pandas • SQL • Apache Spark  
+- **NLP**: spaCy • Gensim  
+- **Dev Tools**: Git • Python • Linux
 
 ---
 
-## 🚀 What I'm Currently Up To
+### 🚀 Current Focus
 
-- 📚 *AI & ML Trainee* at **ITI** (9-month scholarship)  
-- 🔍 Deep diving into *Advanced Deep Learning*, **Natural Language Processing**, and **Computer Vision**
+- Building scalable ML systems  
+- Deploying real-time inference APIs  
+- Bridging research & production for NLP and Vision
 
+---
 
+### 🔍 What I'm Working On
+
+- 📚 **AI & ML Trainee** @ *Information Technology Institute (ITI)*  
+- 🧠 Advancing in **Deep Learning**, **NLP**, and **Computer Vision**  
+- ⚙️ Developing full-stack ML apps with FastAPI + Docker
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adham3assy&show_icons=true&theme=tokyonight&hide_border=true" alt="Adham's GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adham3assy&theme=tokyonight&hide_border=true" alt="Adham's GitHub Streak" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adham3assy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%"/>
+</p>
+
+---
+
+### 📬 Let's Connect
+
+📎 [LinkedIn](https://linkedin.com/in/adham-assy)  
+📧 [Email Me](mailto:adhamabdelsalam@outlook.com)
+
+---
