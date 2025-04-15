@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/adham3assy/assets/animation-header.gif" alt="Header Animation" width="800"/>
+  <img src="https://github.com/adham3assy/adham3assy/assets/animation-header.gif" alt="Header Animation" width="800"/>
 </div>
 
 <p align="center">
@@ -53,13 +53,10 @@ I specialize in building **production-ready ML pipelines**, from data wrangling 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adham3assy&show_icons=true&theme=tokyonight&hide_border=true" alt="Adham's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adham3assy&theme=tokyonight&hide_border=true" alt="Adham's GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=adham3assy&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adham3assy&layout=compact&theme=tokyonight&hide_border=true&hide=Jupyter%20Notebook" alt="Top Languages" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adham3assy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%"/>
-</p>
 
 ---
 
